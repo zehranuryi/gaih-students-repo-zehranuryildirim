@@ -3,7 +3,7 @@
 
 **Course Date:** 15.02.2020  
 **Name:** Zehra Nur  
-**Surname:** Yıldırım
+**Surname:** Yıldırım       
 **Email:** zehranuryi9@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
